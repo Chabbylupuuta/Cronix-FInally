@@ -1,1 +1,2 @@
-# Cronix-FInally
+# Cronix-Login-Page...
+This is the GitHub repository for the Cronix Login Page demo: https://chabbylupuuta.github.io/Cronix-Login-Page./
